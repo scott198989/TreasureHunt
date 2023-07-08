@@ -1,0 +1,8 @@
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(3, calc(45% / 3));
+    grid-template-rows: repeat(3, 1fr);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
