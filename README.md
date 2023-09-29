@@ -1,19 +1,47 @@
-# TreasureHunt
+# TreasureHunt :pirate_flag:
 
-## Content
+![Treasure Hunt Screenshot](https://github.com/scott198989/TreasureHunt/blob/main/TreasureHunt-Screenshot.png)
 
-A Treasure Hunt game I reworked from Jump Start at LEARN Academy.  Still a bit of work in progress, but I decided to re work using React.js to allow the use of state.
+## Table of Contents
 
-## Dependencies
+1. [Introduction](#introduction)
+2. [Technologies](#technologies)
+3. [Installation](#installation)
+4. [How to Play](#how-to-play)
+5. [Contributing](#contributing)
+6. [Contact](#contact)
 
-Yarn
+## Introduction
 
-yarn
+Welcome to TreasureHunt! This is a reworked version of a game from Jump Start at LEARN Academy. It's still a work in progress, but I decided to rebuild it using React.js to utilize state management more effectively.
 
+## Technologies
+
+- React.js
+- Yarn
+
+## Installation
+
+To get started, you'll need to have Yarn installed. Once you have that, clone the repo and run the following commands:
+
+```bash
 yarn install
+yarn start
+```
+
+This will install all the necessary dependencies and start the development server.
+
+## How to Play
+
+// Explanation of game mechanics, controls, etc.
+
+## Contributing
+
+Feel free to fork the repository and submit a pull request for any features, bug fixes, or other improvements.
 
 ## Contact
 
-Thank you for checking out my first major class project! If you would like to connect on linkedin you can do so by clicking my linkedin on my GitHub profile page, or if you would like to drop me a line, or check out some of the other projects I have done, you can do so by visiting my portfolio site at https://www.scott-tuschl.com
+Thanks for checking out my first major class project! If you'd like to connect, you can find me on [LinkedIn](Your-LinkedIn-URL-Here), or check out my portfolio at [Scott Tuschl](https://www.scott-tuschl.com).
 
-Thank you!
+Happy Hunting! :treasure:
+```
