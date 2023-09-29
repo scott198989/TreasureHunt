@@ -44,4 +44,4 @@ Feel free to fork the repository and submit a pull request for any features, bug
 Thanks for checking out my first major class project! If you'd like to connect, you can find me on [LinkedIn](Your-LinkedIn-URL-Here), or check out my portfolio at [Scott Tuschl](https://www.scott-tuschl.com).
 
 Happy Hunting! 
-```
+
